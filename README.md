@@ -15,7 +15,7 @@ The `merge_sort` folder contains a function that takes in an array and returns a
 ## Getting a copy
 If you want to get a copy of this repository, you can clone it:
 ```bash
-git clone git@github.com:fideldemoz/jsCS.git
+git clone git@github.com:fideldemoz/RecursiveJs.git
 ```
 Alternatively, you can clone it.  
 ## Testing
