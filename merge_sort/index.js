@@ -45,4 +45,4 @@ function merge (left, right) {
   return result
 }
 
-export { mergeSort }
+module.exports = mergeSort

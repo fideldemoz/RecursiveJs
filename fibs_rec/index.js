@@ -16,4 +16,4 @@ function fibsRec (number) {
   return list
 }
 
-export { fibsRec }
+module.exports = fibsRec

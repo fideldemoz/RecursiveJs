@@ -31,3 +31,5 @@ npm test
 
 Additionally, you can edit the `test.specs.js` file to customize the tests.  
 Happy Coding!
+
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg?logo=jest)](https://github.com/facebook/jest)
